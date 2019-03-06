@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Rebollo et al., "Stomach-brain synchrony reveals a novel, delayed-connectivity resting-state network in humans". eLife, 2018. http://dx.doi.org/10.7554/eLife.33321
+
 # stomach_brain_Scripts
 Scripts to reproduce the analysis described by Rebollo et al on stomach brain synchronisation
 
